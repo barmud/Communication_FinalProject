@@ -1,0 +1,1 @@
+SELECT name, age FROM mytable WHERE age BETWEEN 30 AND 40
